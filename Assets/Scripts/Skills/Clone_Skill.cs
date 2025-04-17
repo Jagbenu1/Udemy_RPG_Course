@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class Clone_Skill : Skill
 {
-
-    
-
     [Header("Clone Info")]
     [SerializeField] private GameObject clonePrefab;
     [SerializeField] private float cloneDuration;
